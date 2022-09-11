@@ -1,0 +1,41 @@
+.button{
+    width: 66px;
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 20px;
+    cursor: pointer;
+    background-color: orange;
+  }
+
+  .buttonlarge{
+    width: 150px;
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 20px;
+    cursor: pointer;
+    background-color: greenyellow;
+  }
+  
+  .row{
+    margin: 8px 0;
+  }
+  .row input{
+    width: 291px;
+    font-size: 20px;
+      margin: 0;
+      padding: 10px 0px;
+      border: 2px solid black;
+      border-radius: 5px;
+  }
+
+  .text-center{
+
+    text-align: center;
+    color: rgb(14, 13, 13);
+  }
+
+  body{
+    background-color: rgb(183, 16, 169);
+  }
